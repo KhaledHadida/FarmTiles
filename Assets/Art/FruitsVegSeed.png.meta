@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: 21f969769fd0adc4f9551f2d9988ec39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8262310748205365105
+    second: FruitsVegSeed_0
+  - first:
+      213: -2294960835636429304
+    second: FruitsVegSeed_1
+  - first:
+      213: 2549089241403862963
+    second: FruitsVegSeed_2
+  - first:
+      213: -4576299576091560970
+    second: FruitsVegSeed_3
+  - first:
+      213: -9155247219713219095
+    second: FruitsVegSeed_4
+  - first:
+      213: -7624548246783245024
+    second: FruitsVegSeed_5
+  - first:
+      213: 7362261780381607465
+    second: FruitsVegSeed_6
+  - first:
+      213: -2674419154342956024
+    second: FruitsVegSeed_7
+  - first:
+      213: 2971993119348245301
+    second: FruitsVegSeed_8
+  - first:
+      213: 7235085646883472183
+    second: FruitsVegSeed_9
+  - first:
+      213: -6145399819404729016
+    second: FruitsVegSeed_10
+  - first:
+      213: -5385198191392819309
+    second: FruitsVegSeed_11
+  - first:
+      213: -4407768879172896012
+    second: FruitsVegSeed_12
+  - first:
+      213: 4599472660604440552
+    second: FruitsVegSeed_13
+  - first:
+      213: -3572478368693613198
+    second: FruitsVegSeed_14
+  - first:
+      213: 4445474546831445707
+    second: FruitsVegSeed_15
+  - first:
+      213: -3216475818471372613
+    second: FruitsVegSeed_16
+  - first:
+      213: 5175345187383869904
+    second: FruitsVegSeed_17
+  - first:
+      213: 6179026182808280195
+    second: FruitsVegSeed_18
+  - first:
+      213: 1753653701369343983
+    second: FruitsVegSeed_19
+  - first:
+      213: 3003598463436996306
+    second: FruitsVegSeed_20
+  - first:
+      213: -6673829904652673261
+    second: FruitsVegSeed_21
+  - first:
+      213: 6731467965006201957
+    second: FruitsVegSeed_22
+  - first:
+      213: -8003329839422317290
+    second: FruitsVegSeed_23
+  - first:
+      213: 3363530602973573015
+    second: FruitsVegSeed_24
+  - first:
+      213: -4899194607015145824
+    second: FruitsVegSeed_25
+  - first:
+      213: -5115218851142956185
+    second: FruitsVegSeed_26
+  - first:
+      213: 6899622461775216577
+    second: FruitsVegSeed_27
+  - first:
+      213: -2579847884573572780
+    second: FruitsVegSeed_28
+  - first:
+      213: 5501472343590621600
+    second: FruitsVegSeed_29
+  - first:
+      213: 1506495985064544760
+    second: FruitsVegSeed_30
+  - first:
+      213: 5352316827572478177
+    second: FruitsVegSeed_31
+  - first:
+      213: -3014009402461463854
+    second: FruitsVegSeed_32
+  - first:
+      213: 4749628231297119827
+    second: FruitsVegSeed_33
+  - first:
+      213: -5388779328130954173
+    second: FruitsVegSeed_34
+  - first:
+      213: -5700511536242783962
+    second: FruitsVegSeed_35
+  - first:
+      213: -573570133663315806
+    second: FruitsVegSeed_36
+  - first:
+      213: -2899093285892667023
+    second: FruitsVegSeed_37
+  - first:
+      213: 1419553413965884997
+    second: FruitsVegSeed_38
+  - first:
+      213: -8972005718444558158
+    second: FruitsVegSeed_39
+  - first:
+      213: 6634094582459503066
+    second: FruitsVegSeed_40
+  - first:
+      213: -8593402926515168319
+    second: FruitsVegSeed_41
+  - first:
+      213: 4345943200059765202
+    second: FruitsVegSeed_42
+  - first:
+      213: 5370080015708902281
+    second: FruitsVegSeed_43
+  - first:
+      213: 1992863174463297926
+    second: FruitsVegSeed_44
+  - first:
+      213: 2142737694970107719
+    second: FruitsVegSeed_45
+  - first:
+      213: 7092346714736086531
+    second: FruitsVegSeed_46
+  - first:
+      213: -941456972261226111
+    second: FruitsVegSeed_47
+  - first:
+      213: -2566132730301150322
+    second: FruitsVegSeed_48
+  - first:
+      213: 5220116000677786309
+    second: FruitsVegSeed_49
+  - first:
+      213: 9017935352237612497
+    second: FruitsVegSeed_50
+  - first:
+      213: 8225756151839299642
+    second: FruitsVegSeed_51
+  - first:
+      213: -6769377665701603854
+    second: FruitsVegSeed_52
+  - first:
+      213: -8980235453582832628
+    second: FruitsVegSeed_53
+  - first:
+      213: 5827715070525771959
+    second: FruitsVegSeed_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FruitsVegSeed_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c9142379a9c8448525fb566c308b4
+      internalID: 8262310748205365105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 172
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0e83ec9ddce646806af7ca43ed953
+      internalID: -2294960835636429304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ef5204d236b044a0eea9bcfa0392d
+      internalID: 2549089241403862963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 173
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb4d91672a3ca049a21ba6a0bbd0587
+      internalID: -4576299576091560970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 169
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3650b976a1660a9488585455a671e61a
+      internalID: -9155247219713219095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 172
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b702fa592928d4bb7594cf9930f152
+      internalID: -7624548246783245024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037d5e81a70ec24aa7aeeb73b190f8c
+      internalID: 7362261780381607465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 172
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7eb6f046edae4899371f9e4d31dd2
+      internalID: -2674419154342956024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 169
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc4f0038ab4544ea1af83e5bf992fb
+      internalID: 2971993119348245301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 171
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d08544f6c951dc40bfe69560a862e2b
+      internalID: 7235085646883472183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 170
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ede7605d62e714a8ab8b1318c167e8
+      internalID: -6145399819404729016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8707ab4cb17e84f949bd937e662b33
+      internalID: -5385198191392819309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b935760815aec4bbe417422903091b
+      internalID: -4407768879172896012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 139
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db38b6013b4f878418cc5bb1d65aabc5
+      internalID: 4599472660604440552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fe0f8db3c7ed4faadb58d9f0dd75f
+      internalID: -3572478368693613198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9123e8de4fc342448a4735a628b5982
+      internalID: 4445474546831445707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e55d3ed3901cb4698aa8d1502af2f3
+      internalID: -3216475818471372613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e25a735d035542829e4845dc12a35
+      internalID: 5175345187383869904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 140
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d404e2708675d43894b901d8757779
+      internalID: 6179026182808280195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb7bd896fee9aa408fe5cd6f33dd820
+      internalID: 1753653701369343983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0461b758e7714ce45b64b5a2729eab75
+      internalID: 3003598463436996306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb33bba286aa044d95cb3579541097d
+      internalID: -6673829904652673261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ed7cfb66cc91c49821b507c35c1578
+      internalID: 6731467965006201957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf11d4fdc041724e8f4242f2d79c89a
+      internalID: -8003329839422317290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cbc944a104a804a9690d1bff59fef0
+      internalID: 3363530602973573015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 106
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cfa8a57228b5b4cbe196590320d329
+      internalID: -4899194607015145824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 107
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3253d10bc17b5340b6895d62b5267e3
+      internalID: -5115218851142956185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 107
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecda6aa745100474491b00767c0d7a13
+      internalID: 6899622461775216577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 108
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6ab330d3408b64199603c3e664dfb5
+      internalID: -2579847884573572780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1fec62f71261d45957ad3eea42d141
+      internalID: 5501472343590621600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7726c7f36cae1b41b07869cb2d8bb67
+      internalID: 1506495985064544760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130c49241f7c13488fd99c3111df4d0
+      internalID: 5352316827572478177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f789fcb4b8f364e8e1314dbd971e2d
+      internalID: -3014009402461463854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd06930b85d5944295b51248f221fde
+      internalID: 4749628231297119827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7d1a03fb720734b87e3e0d99c0fd66
+      internalID: -5388779328130954173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0c1f8b74062547ad840207ae2494a
+      internalID: -5700511536242783962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b714edffb0b9c4489133c9d12860529
+      internalID: -573570133663315806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 70
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b3a2933926cf4784dc6d0b5b2410f
+      internalID: -2899093285892667023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5279c1c07e678c24ba5c2c9606433c5c
+      internalID: 1419553413965884997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23523729916809247b878759c1a24edf
+      internalID: -8972005718444558158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b1cbe7fd2cf549b94ab4de3c73ce0
+      internalID: 6634094582459503066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd63d084d34131d4eacd5c6f41b6e3ff
+      internalID: -8593402926515168319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac5bbe4f32c194d95e49194188097c
+      internalID: 4345943200059765202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 40
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa39b2c9d39ecc6448a133ede4e7b886
+      internalID: 5370080015708902281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28103b8677c4bd44ebad824f08dfac7f
+      internalID: 1992863174463297926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da55f179c162d2d4e8144df1eb242540
+      internalID: 2142737694970107719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d5aeddcc6b32429253be812d1854e
+      internalID: 7092346714736086531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f39c4cb2cd94e4980531dff5ed97f8
+      internalID: -941456972261226111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a2d5649ffb2741ac913ac52b643fb
+      internalID: -2566132730301150322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f6ea4b4ce9e544836c64b21129aab
+      internalID: 5220116000677786309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6bcb617c1caa94a904b2fd709c4918
+      internalID: 9017935352237612497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27fd8309206bdf44b2958f5269ab722
+      internalID: 8225756151839299642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_52
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbe97f0396f7d4dbf1ab2e58a9116d
+      internalID: -6769377665701603854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_53
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a62211058a01f94881da3dccffb9194
+      internalID: -8980235453582832628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitsVegSeed_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a4108067a1f84999fd09526bfa3f7
+      internalID: 5827715070525771959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47f86b7d3e0d1624186e7ad78a32ec19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bda5b5f6f281a41b7762076e1a32cb, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: 
+  name: Corn
+  value: 5
+  image:
+  - {fileID: -6569451354343527954, guid: bf8651bb7d168564b8b3f6231e8b7c58, type: 3}
+  - {fileID: 7356616379297590612, guid: bf8651bb7d168564b8b3f6231e8b7c58, type: 3}
+  - {fileID: -6102785296603301811, guid: bf8651bb7d168564b8b3f6231e8b7c58, type: 3}
+  - {fileID: -5347296349980235180, guid: bf8651bb7d168564b8b3f6231e8b7c58, type: 3}
+  currentSprite: {fileID: -8859221501742313457, guid: bf8651bb7d168564b8b3f6231e8b7c58,
+    type: 3}
+  timerSpeed: 10
